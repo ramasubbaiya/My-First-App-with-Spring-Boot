@@ -1,1 +1,5 @@
 .metadata/
+.DS_Store
+boot-demo/.DS_Store
+boot-demo/src/.DS_Store
+boot-demo/src/main/.DS_Store

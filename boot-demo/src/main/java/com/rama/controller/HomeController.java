@@ -9,4 +9,9 @@ public class HomeController {
 	public String home() {
 		return "Rama Boot, My First boot Controller";
 	}
+	
+	@RequestMapping("/blog")
+	public String blog() {
+		return "Blog page";
+	}
 }
